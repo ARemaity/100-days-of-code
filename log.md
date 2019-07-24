@@ -5,7 +5,7 @@
 
 **Today's Progress**: Building my profoilio UI (boostrap/css3).
 
-**Thoughts:** 
+**Thoughts:** I bileve i can make it since boostrap is easy .
 
 
 
